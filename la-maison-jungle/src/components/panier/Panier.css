@@ -1,0 +1,45 @@
+.panier {
+    width: 20vw;
+    height: 100%;
+
+}
+
+.gauche {
+
+    width: 100%;
+    height: 100%;
+    background-color: green;
+
+}
+
+.delete {
+
+    display: none;
+}
+
+.boutonFermer {
+
+    margin-right: 10px;
+
+}
+
+.boutonsPanier {
+
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.padding10 {
+
+    padding: 10px;
+
+}
+
+.text {
+
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+
+}
